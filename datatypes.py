@@ -1,6 +1,6 @@
 # Data Types in Python
-# 1.Intergers
-# 2.String
+# 1.Intergers - Numbers
+# 2.String - Characters
 
 a = 5
 b = "Python"
