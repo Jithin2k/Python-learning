@@ -1,4 +1,4 @@
 # Variables in Python
-a = 10
-b = 10
+a = 5
+b = 6
 print(a + b)
