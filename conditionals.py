@@ -5,3 +5,6 @@ elif temparature > 20:
     print("Low Temperature")
 else:
     print("Done")
+
+
+    
